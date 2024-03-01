@@ -2,8 +2,7 @@
 
 ### Links
 
-| Title                                   | Link                                                                                                      
-                      | 
+| Title                                   | Link | 
 |-----------------------------------------|------|
 | Kodekloud CKAD course                   | [Link](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=KEEPLEARNING) | 
 | Kodekloud CKA course                    | [Link](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) |
