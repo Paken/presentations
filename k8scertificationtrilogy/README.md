@@ -2,7 +2,7 @@
 
 ### Links
 
-| Title | Link | Description 
+| Title | Link | Description |
 | Kodekloud CKAD course| [Link](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=KEEPLEARNING) | |
 | Kodekloud CKA course| [Link](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) ||
 | Killershell CKS course| [Link](https://www.youtube.com/watch?v=d9xfB5qaOfg&ab_channel=KillerShell) | |
